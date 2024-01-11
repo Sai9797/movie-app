@@ -33,4 +33,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
           push: true
-          tags: saiteja7799/movie-app:${GITHUB_RUN_NUMBER}
+          tags: saiteja7799/movie-app:v1.0
